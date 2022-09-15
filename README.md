@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wewewer123
 - 👀 I’m interested in: making random coding stuff and challenging myself
-- 🌱 I’m currently learning: Lua/LovePotion
+- 🌱 I’m currently learning: C#/unity and trying out rust
 - 💞️ I’m looking to collaborate on: some random game-jams
 - 📫 How to reach me: iverhoeff@outlook.com
 
