@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wewewer123
 - 👀 I’m interested in: making random coding stuff and challenging myself
-- 🌱 I’m currently learning: C#/unity and trying out rust
+- 🌱 I’m currently learning: C#/unity
 - 💞️ I’m looking to collaborate on: some random game-jams
-- 📫 How to reach me: iverhoeff@outlook.com
+- 📫 How to reach me: iverhoeff@outlook.com or wewewer1#1427
 
 <!---
 wewewer123/wewewer123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
